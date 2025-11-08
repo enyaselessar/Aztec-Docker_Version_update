@@ -37,6 +37,8 @@ You will see eth public adress and bls adress
 
 <img width="507" height="96" alt="image" src="https://github.com/user-attachments/assets/797ca104-4532-4cef-bb39-40f3aa5f59ab" />
 
+#### FUND YOUR NEW ETH ADRESS WITH MINIMUM 0.2 SEPOLIA ETH
+
 
 ## 4.CREATE KEYS FOLDER AND MOVE KEYSTORE.JSON TO DOCKER ENVIRONMENT
 ```
