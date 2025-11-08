@@ -88,6 +88,9 @@ aztec \
  nano /root/aztec/keys/keystore.json
 ```
 
+<img width="2530" height="878" alt="image" src="https://github.com/user-attachments/assets/3887c6ed-32ce-48e5-9ed9-d3e51fdfee61" />
+
+
 ## START SEQUENCER AND CHECK THE LOGS
 ```
 docker compose up -d
