@@ -37,6 +37,9 @@ You will see eth public adress and bls adress
 
 <img width="507" height="96" alt="image" src="https://github.com/user-attachments/assets/797ca104-4532-4cef-bb39-40f3aa5f59ab" />
 
+These are your public wallet adresses.
+Private keys of these wallets are inside key1.json file
+
 #### FUND YOUR NEW ETH ADRESS WITH MINIMUM 0.2 SEPOLIA ETH
 
 
@@ -47,7 +50,7 @@ mkdir /root/aztec/keys
 ```
 cp ~/.aztec/keystore/key1.json /root/aztec/keys/keystore.json
 ```
-### Save your keystore.json 
+### Save your key1.json 
 
 ## 5. APPROVE 200K SPENDING TO JOIN THE NETWORK
 ```
